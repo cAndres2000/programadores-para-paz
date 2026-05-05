@@ -1,0 +1,5 @@
+La terminal es simplemente la forma más directa de hablarle a una computadora. Sin intermediarios, sin abstracciones, lo que escribes es exactamente lo que pasa.
+En el día a día te ahorra un tiempo brutal. Cosas que harías en varios clics las resuelves con un comando, y cuando empiezas a automatizar tareas repetitivas con scripts, tu productividad se dispara.
+Casi todos los servidores del mundo corren Linux sin interfaz gráfica, así que si quieres trabajar con la nube o conectarte a máquinas remotas, la terminal no es opcional.
+Todo el ecosistema de desarrollo vive ahí: Git, Docker, npm, pip. Puedes usar interfaces visuales para algunas cosas, pero nunca con el mismo control y profundidad que desde la terminal.
+Y cuando algo se rompe en producción, que va a pasar, la terminal es donde encuentras las respuestas reales: logs, procesos, uso de red y memoria. Saber moverte ahí es lo que marca la diferencia entre un dev que resuelve problemas y uno que solo espera a que se arreglen solos.
