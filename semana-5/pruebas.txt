@@ -1,0 +1,5 @@
+Al entrar en la url de http://localhost:3000/ se muestra el mensaje "Servidor activo".
+
+Al entrar en la url de http://localhost:3000/saludo se muestra el mensaje "Hola Comunidad"
+
+Al entrar en la url de http://localhost:3000/mensaje/juan se muestra el mensaje de "Hola (Seguido del nombre que coloque en el endpoint)"
