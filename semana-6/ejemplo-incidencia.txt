@@ -1,0 +1,4 @@
+{
+  "tipo": "Reporte de daño en infraestructura comunitaria",
+  "descripcion": "Debido al colapso de una alcantarilla, el agua se desvía y deteriora la vía, generando riesgo de hundimiento para vehículos y peatones."
+}

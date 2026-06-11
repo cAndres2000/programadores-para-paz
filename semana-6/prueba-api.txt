@@ -1,0 +1,32 @@
+PRUEBAS DE LA API EN POSTMAN:
+
+PRUEBA DE REGISTRO:
+se envía un POST a /register con un body JSON que contiene el nombre y un mensaje.
+{
+  "nombre": "Andres",
+  "mensaje": "Hola desde Postman"
+}
+
+la respuesta que se evidencio del la api fue la siguiente:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Andres",
+  "mensaje": "Hola desde Postman"
+}
+
+PRUEBA DE INCIDENCIA:
+se envía un POST a /incidencia con un body JSON que contiene el nombre y un mensaje.
+{
+  "tipo": "Reporte de daño en infraestructura comunitaria",
+  "descripcion": "Debido al colapso de una alcantarilla, el agua se desvía y deteriora la vía, generando riesgo de hundimiento para vehículos y peatones."
+}
+
+la respuesta que se evidencio fue la siguiente:
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Reporte de daño en infraestructura comunitaria",
+  "descripcion": "Debido al colapso de una alcantarilla, el agua se desvía y deteriora la vía, generando riesgo de hundimiento para vehículos y peatones."
+}
+
+en conclusion, la api funciona correctamente y responde a las solicitudes enviadas.

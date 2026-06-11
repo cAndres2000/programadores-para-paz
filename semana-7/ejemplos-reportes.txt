@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Vías",
+  "descripcion": "Hueco profundo en la calle principal del barrio que lleva semanas sin ser reparado y daña los vehículos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Cámara de vigilancia del parque central dañada desde hace más de un mes sin que nadie la haya revisado."
+}
