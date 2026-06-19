@@ -1,0 +1,23 @@
+Reflexión — Semana 9: Estabilidad y seguridad de servidores en plataformas comunitarias
+
+Una plataforma tecnológica que usan comunidades no es solo código: es la
+infraestructura que sostiene procesos de participación, organización y toma de
+decisiones colectivas. Si el servidor falla, esos procesos se interrumpen y la
+confianza de las personas en la herramienta se deteriora.
+
+La estabilidad de un servidor depende de varios factores: que el servicio se
+ejecute de forma continua, que los errores sean registrados en logs y atendidos
+a tiempo, y que existan mecanismos para reiniciar el proceso si algo falla. Sin
+estas medidas, una plataforma comunitaria puede quedar inaccesible en los
+momentos más críticos.
+
+La seguridad también es parte de la estabilidad. Un servidor expuesto sin
+controles puede ser atacado, sus datos pueden filtrarse y sus servicios pueden
+ser saboteados. Proteger los puertos, limitar el acceso y mantener el software
+actualizado son prácticas que protegen tanto a la plataforma como a las personas
+que la usan.
+
+Esta práctica con Node.js y Express permitió entender que detrás de cada
+aplicación web hay un proceso activo escuchando solicitudes. Comprender esa
+capa técnica es el primer paso para administrar plataformas con responsabilidad
+y garantizar que las comunidades puedan confiar en ellas.
