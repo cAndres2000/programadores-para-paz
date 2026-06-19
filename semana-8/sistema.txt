@@ -1,0 +1,21 @@
+Comandos ejecutados y su información
+
+1. uname -a
+Este comando muestra información completa del sistema operativo: el nombre del kernel
+(Linux), el nombre del host (nombre de la máquina), la versión del kernel, la fecha
+de compilación y la arquitectura del procesador (por ejemplo, x86_64).
+Es útil porque permite conocer qué versión del sistema está corriendo, dato esencial
+para aplicar actualizaciones de seguridad o verificar compatibilidad de software.
+
+2. whoami
+Este comando muestra el nombre del usuario activo en la sesión actual de la terminal.
+Es útil porque en un servidor es fundamental saber con qué nivel de permisos se está
+trabajando. Si el resultado es "root", el usuario tiene control total del sistema, lo
+que implica mayor responsabilidad y riesgo si se ejecutan comandos incorrectos.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Conocer el sistema y el usuario activo es el primer paso de cualquier diagnóstico o
+configuración. Un administrador necesita saber la versión del kernel para aplicar
+parches de seguridad, y necesita verificar su usuario para evitar ejecutar operaciones
+destructivas con permisos elevados sin intención. Esta información básica orienta
+todas las decisiones técnicas posteriores.

@@ -1,0 +1,22 @@
+Reflexión — Semana 8: Seguridad digital en plataformas tecnológicas participativas
+
+La seguridad digital no es solo un asunto técnico: es una responsabilidad ética
+hacia las personas que confían sus datos a una plataforma. Cuando una comunidad
+usa una herramienta tecnológica para organizarse, votar, comunicarse o registrar
+información colectiva, está depositando algo valioso que merece protección.
+
+Una plataforma insegura puede exponer datos personales, permitir manipulación de
+información o interrumpir procesos que una comunidad entera depende. En contextos
+participativos, esto puede significar desde filtrar identidades de personas
+vulnerables hasta alterar resultados de una consulta comunitaria.
+
+Aprender a usar Linux y la terminal ayuda a entender cómo funcionan los servidores
+reales donde viven estas plataformas. Conocer comandos básicos, gestionar archivos
+y comprender permisos son habilidades que permiten tomar decisiones informadas
+sobre la infraestructura que se administra.
+
+La seguridad digital en comunidades no depende solo del administrador técnico:
+requiere cultura colectiva. Que cada persona use contraseñas seguras, que no se
+compartan credenciales y que se reporte cualquier comportamiento sospechoso son
+hábitos que fortalecen el sistema completo. La tecnología segura y la participación
+responsable van de la mano.
