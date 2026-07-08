@@ -1,0 +1,12 @@
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+Como coordinador quiero recibir una alerta en Telegram cuando llegue un nuevo reporte.
+Como miembro del equipo quiero consultar el historial de reportes para hacer seguimiento.
+Como coordinador quiero clasificar los reportes por prioridad para atender primero los más urgentes.
+Como ciudadano quiero recibir confirmación de que mi reporte fue recibido.
+
+Orden de prioridad (mayor a menor):
+1. Registrar una incidencia.
+2. Recibir alerta en Telegram cuando llegue un nuevo reporte.
+3. Confirmación de recepción para el ciudadano.
+4. Clasificar reportes por prioridad.
+5. Consultar historial de reportes.

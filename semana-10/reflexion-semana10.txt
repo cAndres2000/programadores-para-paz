@@ -1,0 +1,7 @@
+Las metodologías ágiles ayudan porque permiten que un proyecto comunitario avance por partes en vez de intentar resolver todo de una vez, algo que en equipos pequeños o con poco tiempo disponible termina siendo más realista. Tener un backlog ordenado por prioridad evita que el trabajo se disperse en funcionalidades que no son urgentes.
+
+La automatización, cuando se usa con criterio, le quita carga operativa al equipo: en vez de estar revisando manualmente si hay reportes nuevos, una alerta en Telegram avisa de inmediato y deja que las personas se enfoquen en analizar el caso, no en estar pendientes de si llegó algo.
+
+Canales como Telegram también facilitan la coordinación y la convocatoria de la comunidad, porque es una herramienta que la gente ya usa y conoce, sin necesidad de aprender un sistema nuevo.
+
+Sin embargo, todo esto solo funciona si hay responsabilidad de por medio: definir qué se automatiza, qué información no debe salir del sistema, y mantener siempre una revisión humana que confirme que la automatización está haciendo lo que debería.

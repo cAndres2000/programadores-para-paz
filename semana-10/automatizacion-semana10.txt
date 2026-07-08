@@ -1,0 +1,14 @@
+Evento: se registra una nueva incidencia en el sistema.
+
+Acción: n8n detecta el nuevo registro y envía un mensaje a un canal de Telegram del equipo de veeduría.
+
+Mensaje: "Nuevo reporte recibido. Prioridad: media. Revisar sistema para más detalles."
+
+Información que no debería enviarse por seguridad:
+- Nombres completos de las personas involucradas.
+- Números de cédula o documentos de identidad.
+- Direcciones exactas.
+- Números de teléfono.
+- Cualquier clave, token o dato de acceso al sistema.
+
+El mensaje debe limitarse a avisar que algo pasó, no a exponer el detalle sensible del caso. Quien necesite ver la información completa debe entrar al sistema, no encontrarla en el chat.

@@ -1,0 +1,7 @@
+El login es el proceso mediante el cual una aplicación identifica a un usuario antes de darle acceso a ciertas funciones, generalmente pidiendo un nombre de usuario y una contraseña que se validan contra lo almacenado en la base de datos.
+
+Algunas rutas de la plataforma deben estar protegidas porque no toda la información o acción debe estar disponible para cualquier persona. Por ejemplo, crear una causa o gestionar apoyos debería requerir que el usuario esté autenticado, mientras que ver la lista de causas puede quedar abierta.
+
+Sin autenticación, cualquiera podría modificar o eliminar información que no le corresponde, lo cual pone en riesgo la confianza de la comunidad en la plataforma.
+
+No se debe exponer públicamente la contraseña de los usuarios, ni siquiera en forma de hash visible desde el navegador, tampoco documentos de identidad, teléfonos, direcciones, tokens de acceso ni claves de API. Esa información debe manejarse solo del lado del servidor y con las protecciones adecuadas.
