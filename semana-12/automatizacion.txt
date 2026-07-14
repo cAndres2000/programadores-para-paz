@@ -1,0 +1,5 @@
+Automatización con Telegram
+
+Evento: se registra un nuevo apoyo a una causa.
+Mensaje que se envía: "Tu causa recibió un nuevo apoyo. Ya van X apoyos registrados."
+Información que no debe enviarse: cédulas, números de teléfono, direcciones, ni ningún otro dato personal de quien apoya. El mensaje solo debe mostrar el conteo, nunca datos sensibles de las personas.

@@ -1,0 +1,17 @@
+Modelo de datos - Petición en 3 Clics
+
+Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Sirve para guardar la información principal de cada petición que se crea en la plataforma: de qué se trata, cuándo se creó y su descripción.
+
+Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Sirve para registrar cada persona que apoya una causa. El causa_id conecta el apoyo con la causa a la que pertenece, y así se puede contar cuántos apoyos tiene cada una.
